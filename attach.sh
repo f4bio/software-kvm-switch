@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo software-kvm-switch attach
+sudo /usr/local/bin/software-kvm-switch attach

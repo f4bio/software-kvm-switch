@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 #monitor=dev:/dev/i2c-1
 #output=3

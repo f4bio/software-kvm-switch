@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo software-kvm-switch detach
+sudo /usr/local/bin/software-kvm-switch detach

@@ -4,5 +4,5 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^+F11::
-    Run, %A_ProgramFiles%\PuTTY\plink.exe software-kvm-switch
+    Run, %A_ProgramFiles%\PuTTY\plink.exe software-kvm-switch,,Hide
 Return
